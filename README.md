@@ -11,7 +11,7 @@
 
 Потребовалось время, чтобы она прижилась, но машинное обучение превратилось в практический инструмент для решения реальных проблем, которые раньше были слишком сложными.
 <br> </br>
-### Table of Contents: Overview:
+## Table of Contents: Overview:
 > Section I: Machine Learning with Images
 - Machine Learning, iOS & You
 - Getting Started with Image Classification
@@ -34,7 +34,7 @@
 - Natural Language Transformation, Part 1
 - Natural Language Transformation, Part 2
 <br> </br>
-# Table of Contents: Extended
+## Table of Contents: Extended
 <br> </br>
 ## **Machine Learning, iOS & You**
 ### Key points
